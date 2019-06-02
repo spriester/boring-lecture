@@ -1,23 +1,18 @@
 h1 {
   font-family: serif;
-  color: red;
+  color: purple;
 }
 
-h2.intro {
+h2 {
   font-family: cursive;
-  color: orange;
-}
-
-p.intro {
-  font-family: fantasy;
   color: green;
 }
 
-p.outro {
-  font-family: sans-serif;
+.intro {
   color: blue;
 }
 
-img.intro {
+img {
+  float: left;
   height: 200px;
 }
