@@ -1,0 +1,23 @@
+h1 {
+  font-family: serif;
+  color: red;
+}
+
+h2.intro {
+  font-family: cursive;
+  color: orange;
+}
+
+p.intro {
+  font-family: fantasy;
+  color: green;
+}
+
+p.outro {
+  font-family: sans-serif;
+  color: blue;
+}
+
+img.intro {
+  height: 200px;
+}
